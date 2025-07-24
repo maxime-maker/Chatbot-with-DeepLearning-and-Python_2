@@ -19,3 +19,4 @@ Implemening RNN based Model Development
 
 Training, Testing and Validation Chatbot
 
+<img width="605" height="616" alt="image" src="https://github.com/user-attachments/assets/5ef91788-b1fb-4298-9f9a-bff4287eca4d" />
